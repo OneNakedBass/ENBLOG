@@ -1,1 +1,27 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp6774751.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.frame {
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+    padding: 25px;
+    padding-top: 15px;
+    background-color: #2a3540;
+    box-shadow: 0 10px 50px black;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.essay {
+    text-align: justify;
+    color: whitesmoke;
+}
+
 
